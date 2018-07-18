@@ -8,6 +8,9 @@ public class ExampleUsage {
  // This is your text to search may be an inputText on Visualforce
   public String searchStr {get; set;}   
  
+ 
+ 
+ 
  public String getSearchItemsSingleSearch (){
     String responseStr;
     // Unique Record Name field Value On ES Connector 
